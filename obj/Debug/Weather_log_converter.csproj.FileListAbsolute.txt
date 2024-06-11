@@ -1,0 +1,12 @@
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.Form1.resources
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\bin\Debug\Weather_log_converter.exe.config
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\bin\Debug\Weather_log_converter.exe
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\bin\Debug\Weather_log_converter.pdb
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.Properties.Resources.resources
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.exe
+E:\Visual Studio 2015\Weather_log_converter\Weather_log_converter\obj\Debug\Weather_log_converter.pdb
+E:\Visual Studio 2015\AMeDAS_SMET_Converter\Weather_Log_Converter\bin\Debug\Weather_log_converter.exe.config
+E:\Visual Studio 2015\AMeDAS_SMET_Converter\Weather_Log_Converter\obj\Debug\Weather_log_converter.exe
+E:\Visual Studio 2015\AMeDAS_SMET_Converter\Weather_Log_Converter\obj\Debug\Weather_log_converter.pdb
